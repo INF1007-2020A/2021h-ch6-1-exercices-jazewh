@@ -57,7 +57,7 @@ def main() -> None:
     print(order())
 
     print(f"On vérifie les anagrammes...")
-    print(anagrams())
+    anagrams()
 
     my_list = [3, 3, 5, 6, 1, 1]
     print(f"Ma liste contient-elle des doublons? {contains_doubles(my_list)}")
