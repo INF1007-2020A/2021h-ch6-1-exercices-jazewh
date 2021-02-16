@@ -80,6 +80,6 @@ AssertionError: {} != {'Sam': 85}
 + {'Sam': 85} : Erreur dans les notes
 
 ----------------------------------------------------------------------
-Ran 5 tests in 0.002s
+Ran 5 tests in 0.003s
 
 FAILED (failures=4)
